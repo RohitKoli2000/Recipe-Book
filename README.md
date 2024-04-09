@@ -4,23 +4,22 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 UI Interfaces
 1
-![2021-07-28 (5)](https://user-images.githubusercontent.com/57450152/127299535-8faa16cd-b103-46d5-a46b-3629f5872c0f.png)
+![SS1](https://github.com/RohitKoli2000/Recipe-Book/assets/117574422/84f6623a-9866-4ee8-acf5-bcae68276da6)
 
 2
-![2021-07-28 (6)](https://user-images.githubusercontent.com/57450152/127299578-7ad65fda-8066-43e9-b1d3-67715caba82d.png)
+![SS2](https://github.com/RohitKoli2000/Recipe-Book/assets/117574422/fa38e06a-961d-4d7f-8972-26f75db77493)
 
 3
-![2021-07-28 (7)](https://user-images.githubusercontent.com/57450152/127299658-a638151d-36ad-44b9-bc06-e65559a96848.png)
+![SS3](https://github.com/RohitKoli2000/Recipe-Book/assets/117574422/2dc63997-246e-48ae-b124-a818768b0a05)
 
 4
-![2021-07-28 (8)](https://user-images.githubusercontent.com/57450152/127299812-66da8dae-b650-497b-8528-e61c5b1bde5b.png)
+![SS4](https://github.com/RohitKoli2000/Recipe-Book/assets/117574422/b3fd415d-f80c-46f6-bd27-998048efea62)
 
 5
-![2021-07-28 (9)](https://user-images.githubusercontent.com/57450152/127299848-3c0cce39-2bca-4981-8213-3a5a79393924.png)
+![SS5](https://github.com/RohitKoli2000/Recipe-Book/assets/117574422/9fcd0c29-90f6-4046-b7da-6a5b2b9a4d20)
 
 6
-![2021-07-28 (10)](https://user-images.githubusercontent.com/57450152/127299879-12cb7907-187c-4209-8484-d0c4122b59b9.png)
-
+![SS6](https://github.com/RohitKoli2000/Recipe-Book/assets/117574422/034b7d41-9e53-46a9-9dc6-9a91587b636b)
 
 
 ## Development server
